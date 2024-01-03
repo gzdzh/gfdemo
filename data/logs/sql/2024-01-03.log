@@ -1,0 +1,23 @@
+2024-01-03 22:23:32.264 [DEBU] {a0a9139e5fdca61784f8894e5b5fef0b} [ 11 ms] [default] [gfdemo_go] [rows:4  ] SHOW FULL COLUMNS FROM `school`
+2024-01-03 22:23:32.265 [DEBU] {a0a9139e5fdca61784f8894e5b5fef0b} [  1 ms] [default] [gfdemo_go] [rows:0  ] SELECT * FROM `school`
+2024-01-03 22:24:11.309 [DEBU] {68a88fb668dca61786f8894ef222a6d7} [  5 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school`
+2024-01-03 22:53:57.182 [DEBU] {30f8e98408dea617d9baeb5cde38d836} [  4 ms] [default] [gfdemo_go] [rows:4  ] SHOW FULL COLUMNS FROM `school`
+2024-01-03 22:53:57.183 [DEBU] {30f8e98408dea617d9baeb5cde38d836} [  1 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school`
+2024-01-03 22:55:11.701 [DEBU] {68d578de19dea6179fa5c56523bf5aef} [  6 ms] [default] [gfdemo_go] [rows:4  ] SHOW FULL COLUMNS FROM `school`
+2024-01-03 22:55:11.703 [DEBU] {68d578de19dea6179fa5c56523bf5aef} [  1 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school`
+2024-01-03 22:56:11.288 [DEBU] {f8d10dbe27dea617a0a5c56529ec98ee} [  8 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school`
+2024-01-03 22:57:34.246 [DEBU] {6061e90e3bdea617a1a5c56573eaa4ec} [  5 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school`
+2024-01-03 22:58:33.102 [DEBU] {d8f42fc348dea617a2a5c565b20c278a} [  2 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school`
+2024-01-03 22:58:46.605 [DEBU] {30c2f2e64bdea617ff1cd11ff150c597} [ 10 ms] [default] [gfdemo_go] [rows:4  ] SHOW FULL COLUMNS FROM `school`
+2024-01-03 22:58:46.619 [DEBU] {30c2f2e64bdea617ff1cd11ff150c597} [ 13 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school`
+2024-01-03 23:02:25.945 [DEBU] {f0b2d4f87edea617ffa9c52be6691b89} [ 14 ms] [default] [gfdemo_go] [rows:4  ] SHOW FULL COLUMNS FROM `school`
+2024-01-03 23:02:25.949 [DEBU] {f0b2d4f87edea617ffa9c52be6691b89} [  3 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school` WHERE `id`=1 LIMIT 1
+2024-01-03 23:03:22.289 [DEBU] {383bc9178cdea6178bfd2a483ddf649a} [  5 ms] [default] [gfdemo_go] [rows:4  ] SHOW FULL COLUMNS FROM `school`
+2024-01-03 23:03:22.292 [DEBU] {383bc9178cdea6178bfd2a483ddf649a} [  2 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school` WHERE `id`=1 LIMIT 1
+2024-01-03 23:04:22.410 [DEBU] {b8bf66179adea617aa49ed6b8f498b7b} [  4 ms] [default] [gfdemo_go] [rows:4  ] SHOW FULL COLUMNS FROM `school`
+2024-01-03 23:04:22.412 [DEBU] {b8bf66179adea617aa49ed6b8f498b7b} [  1 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school` WHERE `id`=1 LIMIT 1
+2024-01-03 23:04:44.727 [DEBU] {207cba499fdea617ab49ed6b3a543721} [  2 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school` WHERE `id`=1 LIMIT 1
+2024-01-03 23:28:51.463 [DEBU] {18aa7020f0dfa617090e537b26ae228a} [ 26 ms] [default] [gfdemo_go] [rows:4  ] SHOW FULL COLUMNS FROM `school`
+2024-01-03 23:28:51.464 [DEBU] {18aa7020f0dfa617090e537b26ae228a} [  0 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school` WHERE `id`=1 LIMIT 1
+2024-01-03 23:29:59.341 [DEBU] {b01d86efffdfa61757afe5132c510a67} [  6 ms] [default] [gfdemo_go] [rows:4  ] SHOW FULL COLUMNS FROM `school`
+2024-01-03 23:29:59.343 [DEBU] {b01d86efffdfa61757afe5132c510a67} [  2 ms] [default] [gfdemo_go] [rows:1  ] SELECT * FROM `school` WHERE `id`=1 LIMIT 1

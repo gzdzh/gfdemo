@@ -6,3 +6,10 @@ gfcli:
     build: "-a amd64 -s linux -p temp -ew"
     tagPrefixes:
       - my.image.pub/my-app
+
+
+  # dao生成
+  gen:
+    dao:
+      - link: "mysql:root:dzh123456@tcp(127.0.0.1:3306)/gfdemo_go"
+        tables: "school"

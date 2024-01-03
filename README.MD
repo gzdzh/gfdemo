@@ -1,4 +1,4 @@
 # GoFrame Template For SingleRepo
 
-Quick Start: 
-- https://goframe.org/pages/viewpage.action?pageId=1114399
+
+> go执行静态二进制文件和执行动态库文件
